@@ -1,4 +1,4 @@
 #!/bin/sh
 
 
-yum -y install docker-io-$DOCKER_VERSION*
+yum -y install docker-$DOCKER_VERSION*
