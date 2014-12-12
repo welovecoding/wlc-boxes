@@ -1,3 +1,3 @@
 #!/bin/sh
 
-yum -y -x 'kernel*' update
+yum -y update

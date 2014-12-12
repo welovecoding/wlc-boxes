@@ -3,3 +3,4 @@
 echo "Rebooting the machine..."
 reboot
 sleep 60
+killall sshd
